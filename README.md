@@ -5,8 +5,8 @@ The LDA Model used here was built from stracth in Python using the Generative Mo
 
 Thought the high False Negative was due to my perhaps inferior implementatiom but Sklearn's LDA also showed the same reuslts.
 
-The test data was taken from Kaggle. 
-https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+The test data was taken from Kaggle. <br>
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset  <br>
 This data about Strokes (Brain Stroke ?, Heart Stroke?, i don't know lol) to be exact.
 
 ## Also hate that the code to clean the .csv file took more line of codes that the actual LDA impelementation
